@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f69511-eebf-4974-936a-1bb427d02be8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="865" height="290" key="GridCell.Tab.0.bottom" timestamp="1583083430447">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="865" height="290" key="GridCell.Tab.0.bottom/69.0.1851.1080@69.0.1851.1080" timestamp="1583083430447" />
+    <state width="865" height="290" key="GridCell.Tab.0.center" timestamp="1583083430447">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="865" height="290" key="GridCell.Tab.0.center/69.0.1851.1080@69.0.1851.1080" timestamp="1583083430447" />
+    <state width="865" height="290" key="GridCell.Tab.0.left" timestamp="1583083430447">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="865" height="290" key="GridCell.Tab.0.left/69.0.1851.1080@69.0.1851.1080" timestamp="1583083430447" />
+    <state width="865" height="290" key="GridCell.Tab.0.right" timestamp="1583083430447">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="865" height="290" key="GridCell.Tab.0.right/69.0.1851.1080@69.0.1851.1080" timestamp="1583083430447" />
     <state x="690" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1583076554801">
       <screen x="69" y="0" width="1851" height="1080" />
     </state>
