@@ -72,7 +72,13 @@ public class Variables {
         System.out.println("a--, a = " + " " + a );
         System.out.println("- - - - - - - - - - - - - - - - - - - - - - - ");
 
+        char char1 = 'A';
+        char char2 = 'B';
 
+        System.out.println( char1);
+        System.out.println( char2);
+
+        System.out.println("- - - - - - - - - - - - - - - - - - - - - - - - ");
 
 
 
